@@ -16,7 +16,6 @@ document.querySelector('.header_burger').addEventListener("click", function(){
     } 
 });
 window.addEventListener(`resize`, function() {
-    console.log(document.querySelector('.flex_width_content_one').clientWidth);  // 745
     let allA = document.querySelectorAll('nav.nav_menu a');
     let p = document.querySelector('.nav_menu p'); 
     if (document.querySelector('.flex_width_content_one').clientWidth < 835) {
