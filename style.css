@@ -144,6 +144,9 @@ body {
 .flex_width_content_fon:nth-child(3) li {
     font-size: 18px;
 }
+.flex_width_content_fon:nth-child(6) li {
+    color: #654321;
+}
 .flex_width_content_fon:nth-child(4) .flex_height_content_one:nth-child(1) h2,
 .flex_width_content_fon:nth-child(6) .flex_height_content_one:nth-child(1) h2,
 .flex_width_content_fon:nth-child(8) .flex_height_content_one:nth-child(1) h2 {
