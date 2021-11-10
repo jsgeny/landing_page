@@ -1252,9 +1252,9 @@ nav.nav_menu_top a:hover {
         min-height: 50px;
         background-color: rgba(78, 41, 27, 0.7);
     }
-    .nav_menu1 {
+    .nav_menu_top ul {
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
         align-items: center;
         flex-direction: column;
     }
