@@ -720,7 +720,7 @@ ol li {
     flex: 1 0 23%;     /* flex: 0 0 23.75%; 4 колонки */
 }
 .flex_height_content_four {
-    width: 18em;
+    width: 17.5em;
 }
 .flex_height_content_four h3{
     color: #fff;
