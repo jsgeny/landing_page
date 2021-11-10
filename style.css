@@ -965,6 +965,7 @@ input[type=text]:focus {
     justify-content: flex-start;
     align-items: center;
     flex-direction: row;
+    flex-wrap: wrap;
     min-height: 50px;
     overflow: hidden;
 }
