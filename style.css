@@ -959,8 +959,8 @@ input[type=text]:focus {
 /* ========================================= */
 /* - start -         +++ menu +++            */
 /* ========================================= */
-.nav_menu,
-.nav_menu_top ul {   
+.nav_menu_top ul,
+.nav_menu {   
     display: flex;
     justify-content: flex-start;
     align-items: center;
