@@ -736,6 +736,13 @@ ol li {
 .flex_height_content_four:nth-child(4) {
     padding: 0px;
 }
+.flex_width_content_fon:nth-child(1) .flex_width_content_four,
+.flex_width_content_fon:nth-child(4) .flex_width_content_four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
 .flex_height_content_four:last-child {
     padding: 0 7px;
 }
