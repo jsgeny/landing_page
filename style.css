@@ -525,7 +525,7 @@ body {
     position: relative;
     z-index: 1;
 }
-.content_Bx a {
+/* .content_Bx a {
     display: inline-block;
     margin-top: 15px;
     color: khaki;
@@ -533,6 +533,21 @@ body {
     border: 1px solid khaki;
     position: relative;
     z-index: 1;
+} */
+.content_Bx a {
+    display: inline-block;
+    background-color: #B7410E;
+    padding: 7px;
+    border-radius: 4px;
+    color: khaki;
+    font-family: Consolas;
+    margin: 15px 0px;
+    position: relative;
+    z-index: 1;
+}
+.content_Bx a:hover {
+    background-color: #d84c10;
+    border-radius: 4px;
 }
 @media (max-width: 1036px) {
     .card {
