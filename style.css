@@ -1403,14 +1403,14 @@ nav.nav_menu_top a:hover {
     .flex_width_content_one,
     .flex_width_content_two,
     .flex_width_content_three,
-    .flex_width_content_fhor,
+    .flex_width_content_four,
     .flex_width_content_five {
         flex: 0 0 100%;        /* flex: 0 0 100%;  1 колонка */
     }
     .flex_height_content_one,
     .flex_height_content_two,
     .flex_height_content_three,
-    .flex_height_content_fhor,
+    .flex_height_content_four,
     .flex_height_content_five {
         /* +++ резиновые блоки +++ Нет контента = нет блоков */
         height: 100%;
